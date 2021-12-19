@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Lamke
 - 👀 I’m interested in software and systems engineering, philosophy, and creating a better world. 
-- 👀 I have a background in C and low level programming and have been programming since the early 90s. C++ and Java (especially the latter) are wonderful for complex programming on a short schedule because there are open source libs for almost everything.
+- 👀 I have a background in C and low level programming generally, and have been programming since the early 90s. C++ and Java (especially the latter) are wonderful for complex programming on a short schedule because there are open source libs for almost everything.
 - 🌱 I’m currently learning JavaScript and Python.
 - 📫 How to reach me ... The best way to reach me is to tweet at me @crlamke. 
 
