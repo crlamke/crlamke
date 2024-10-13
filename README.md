@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and systems engineering, philosophy, and creating a better world. 
 - 👀 I have a background in C and low level programming generally, and have been programming since the early 90s.
 - 🌱 I’m currently learning K8s, NiFi API, and Python.
-- 📫 How to reach me ... The best way to reach me is to contact me at my Mastodon account <a rel="me" href="https://mastodon.social/@crlamke">crlamke@mastodon.social</a>. 
+- 📫 How to reach me ... The best way to reach me is to contact me at my Mastodon account <a rel="me" href="https://mastodon.social/@crlamke">https://mastodon.social/@crlamke</a>. 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=crlamke&count_private=true&theme=tokyonight&showicons=true)]()
 
